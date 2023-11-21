@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "French Fries With Mayo",
+    "price": 50,
+    "fullPrice": 100,
+    "image": "https://dukaan.b-cdn.net/200x200/webp/projecteagle/images/237a6f48-3a82-4ddf-afba-11b5a200cf05.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Corn Cheese Maggie",
+    "price": 90,
+    "fullPrice": 170,
+    "image": "https://dukaan.b-cdn.net/200x200/webp/upload_file_service/21dd4860-68ff-47b8-9bb4-b3be864f41a8/1667877513125-jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Paneer Maggie",
+    "price": 80,
+    "fullPrice": 140,
+    "image": "https://dukaan.b-cdn.net/200x200/webp/upload_file_service/bb8e955d-c93f-41df-ae83-39892f330640/1667875944095-jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Butter Maggie",
+    "price": 70,
+    "fullPrice": 140,
+    "image": "https://dukaan.b-cdn.net/200x200/webp/upload_file_service/39bc1952-f12a-4206-95b4-91fb6341e5dc/1667875781981-jpeg"
+  }
+]
